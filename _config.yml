@@ -1,0 +1,29 @@
+title: Eriq Augustine
+email: eriq.scrap@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+   "Eriq Augustine: Computer Science Researcher, Software Developer, and Teacher."
+
+# URL settings.
+# Use 'url' for custom domains on github pages, and 'baseurl' for normal github pages hosting.
+url: ""
+baseurl: "/personal-website"
+
+permalink: /blog/:year/:month/:day/:title:output_ext
+
+plugins:
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Accounts
+github_username: eriq-augustine
+# twitter_username: LINQS_edu
+# youtube_username: LINQSLab
+
+# Custom template settings.
+minima:
+  date_format: "%Y-%m-%d"
+
+emptyArray: []
