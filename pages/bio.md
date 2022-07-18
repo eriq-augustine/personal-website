@@ -2,13 +2,13 @@
 layout: page
 title: Biography
 nav-title: Bio
-order: 2
+order: 3
 permalink: /bio/
 ---
 
 [Curriculum Vitae]({{ "/assets/docs/augustine-cv-202201a.pdf" | relative_url }}){: .abs-top-right .large-font }
 
-![Eriq Augustine]({{ "/assets/images/augustine-bio.jpg" | relative_url }}){: .center-image .third-width .float-left }
+![Eriq Augustine]({{ "/assets/images/augustine-profile.jpg" | relative_url }}){: .center-image .third-width .float-left }
 
 ### Computer Science
 
