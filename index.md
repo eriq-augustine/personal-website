@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Eriq Augustine]({{ "/assets/images/bio.jpg" | relative_url }}){: .third-width .float-left }
+![Eriq Augustine]({{ "/assets/images/headshot.jpg" | relative_url }}){: .third-width .float-left }
 
 My name is Eriq Augustine, and I am currently working on my Ph.D. in Computer Science (Machine Learning) at UC Santa Cruz.
 I am a member of the [LINQS Lab](https://linqs.org) under [Dr. Lise Getoor](https://getoor.soe.ucsc.edu).
