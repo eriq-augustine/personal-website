@@ -14,13 +14,14 @@ permalink: /bio/
 
 I started my Computer Science career at [California State Polytechnic University, San Luis Obispo](https://www.calpoly.edu/), where I earned my BS and MS in Computer Science in 2013.
 My Master's research was on micro-text classification and was done under [Dr. Alexander Dekhtyar](https://users.csc.calpoly.edu/~dekhtyar/).
-After I worked as a software developer on Netflix's cloud reliability, where I implemented my thesis, [SPOONS](https://dl.acm.org/doi/abs/10.1145/2187980.2187983), on Spanish tweets to support the South American release of Netflix.
-Next, I worked as a software developer on the Extensions Team on the Google Chromium/Chrome web browser.
-There are designed and implemented the [Native Messaging API](https://developer.chrome.com/docs/apps/nativeMessaging/).
-Afterwords, I became a senior software developer at [Gaine Solutions](https://gaine.com/), where I worked on master data management and production-scale entity resolution systems.
+Afterwards, I worked as a software developer on Netflix's cloud reliability team, where I implemented my thesis, [SPOONS](https://dl.acm.org/doi/abs/10.1145/2187980.2187983), on Spanish tweets to support the South American release of Netflix.
+Next, I worked as a software developer on the Extensions Engine Team on the Google Chromium/Chrome web browser.
+There I designed and implemented the [Native Messaging API](https://developer.chrome.com/docs/apps/nativeMessaging/).
+After my time at Google, I became a senior software developer at [Gaine Solutions](https://gaine.com/), where I worked on master data management and production-scale entity resolution systems.
 Finally, I decided to return to academia to pursue a Ph.D. in machine learning.
 I entered the graduate program at the [University of California, Santa Cruz](https://www.ucsc.edu/),
 where I joined the [LINQS Lab](https://linqs.org) under [Dr. Lise Getoor](https://getoor.soe.ucsc.edu).
+In Winter of 2023, I graduated with a PhD in Computer Science from UCSC and started working as a postdoctoral researcher under Dr. Getoor.
 
 ### Teaching
 
@@ -30,7 +31,7 @@ and have managed over twenty clients while still in high school.
 When I arrived at Cal Poly, I became a tutor in the Computer Science Department's Tutoring Center, which I eventually managed.
 While at Cal Poly, I graded and TA'd for various courses which culminated in becoming a graduate student instructor.
 After I graduated Cal Poly, I would periodically come back to lecture for various courses.
-While pursuing my Ph.D. at UCSC I have also had the opportunity to revamp a course, Introduction to Artificial Intelligence, and supervise several students at the undergraduate, master's, and doctoral levels.
+While pursuing my Ph.D. at UCSC I have also had the opportunity to revamp a course, co-create a course, and supervise several students at the undergraduate, master's, and doctoral levels.
 
 ### Personal
 
