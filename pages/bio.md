@@ -6,7 +6,7 @@ order: 3
 permalink: /bio/
 ---
 
-[Curriculum Vitae]({{ "/assets/docs/augustine-cv-202201a.pdf" | relative_url }}){: .abs-top-right .large-font }
+[Curriculum Vitae]({{ "/assets/docs/augustine-cv.pdf" | relative_url }}){: .abs-top-right .large-font }
 
 ![Eriq Augustine]({{ "/assets/images/nieces.jpg" | relative_url }}){: .center-image .third-width .float-left }
 
